@@ -1,2 +1,2 @@
-TOKKEN = '6974828311:AAGtKRHU463EcA7OjLparwwqdXkkOCtfE7I'
-admin = '5502720862'
+TOKKEN = 'bot_tokem'
+admin = 'admin_id'
